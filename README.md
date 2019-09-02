@@ -33,5 +33,5 @@ Evaluating in Keys
 
 [1] Raganato A.; Camacho-Collados J.; and Navigli R. 2017. Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison. In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics, 99-110, Valencia, Spain: Association for Computational Linguistics.  
 [2] Agirre E.; de Lacalle O. L.; and Soroa A. 2018. The risk of sub-optimal use of Open Source NLP Software: UKB is inadvertently state-of-the-art in knowledge-based WSD. In Proceedings of Workshop for NLP Open Source Software, 29–33, Melbourne, Australia: Association for Computational Linguistics.  
-[3] The British National Corpus, version 3 (BNC XML Edition). 2007. Distributed by Bodleian Libraries, University of Oxford, on behalf of the BNC Consortium. URL: http://www.natcorp.ox.ac.uk/
+[3] The British National Corpus, version 3 (BNC XML Edition). 2007. Distributed by Bodleian Libraries, University of Oxford, on behalf of the BNC Consortium. URL: http://www.natcorp.ox.ac.uk/  
 [4] Chen D.; Fisch A.; Weston J.; and Bordes A. 2017. Reading Wikipedia to Answer Open-Domain Questions, In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics, 1870-1879, Vancouver, Canada: Association for Computational Linguistics.# Knowledge-based-WSD
