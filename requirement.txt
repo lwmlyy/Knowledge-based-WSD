@@ -1,0 +1,8 @@
+bs4
+multiprocessing
+sqlite3
+nltk
+tqdm
+numpy
+sklearn
+scipy
