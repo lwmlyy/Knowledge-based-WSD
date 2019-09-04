@@ -1,5 +1,3 @@
-## Word Sense Disambiguation: A Comprehensive Knowledge Exploitation Framework
-
 This code is an implementation of the Knowledge-based Word Sense Disambiguation (KWSD) Framework that exploits knowledge from different perspectives. In detail, it makes use of knowledge from Wikipedia and WordNet in a similarity-based WSD method and combines the method with a graph-based WSD method in some personalized settings such as top_3 senses filtration, customized sense graph construction and sense importance inheritance. State-of-the-art performance on several standard WSD datasets has proven the effectiveness of such a knowledge-exploitation framework.
 
 ### Quick Evaluation
